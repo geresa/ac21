@@ -5,7 +5,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git^6e019c94d0fa7162548
 src-git freifunk https://github.com/freifunk/openwrt-packages.git^c621a4283870fe062489fe5e26a15deda7ef4ed7
 src-git helloworld https://github.com/fw876/helloworld.git
 src-git geresa https://github.com/geresa/tambahan.git
-src-git vernesong https://github.com/vernesong/OpenClash.git
-src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall.git
-src-git jerryk https://github.com/jerrykuku/openwrt-package.git
-src-git garypang13 https://github.com/garypang13/openwrt-bypass.git
+#src-git vernesong https://github.com/vernesong/OpenClash.git
+#src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall.git
+#src-git jerryk https://github.com/jerrykuku/openwrt-package.git
+#src-git garypang13 https://github.com/garypang13/openwrt-bypass.git
